@@ -1,0 +1,4 @@
+baseURL = 'https://m5281021.github.io/example-hugo'
+languageCode = 'ja'
+title = 'My New Hugo Site'
+theme = 'ananke'
